@@ -1,0 +1,5 @@
+print("{:s}".format("Aven"))
+print("{x:8.2s}".format(x="Aven"))
+print("{:>10.3s}".format("Aven"))
+print("{:#<10.2s}".format("Aven"))
+print('{:*^10.2s}'.format("Aven"))
