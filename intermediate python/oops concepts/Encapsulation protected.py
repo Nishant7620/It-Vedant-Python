@@ -20,3 +20,5 @@ car.car_details()
 print(f"Before changing protected variable of wheel: {car._wheels}")
 car._wheels = 10
 print(f"After changing protected variable of wheel: {car._wheels}")
+
+print(car._color)
