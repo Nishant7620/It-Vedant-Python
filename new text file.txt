@@ -1,0 +1,1 @@
+we have again executed same file with write mode.So it will overide the dataAppending data in to....We have created a text file
