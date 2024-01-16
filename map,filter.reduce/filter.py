@@ -35,3 +35,5 @@ numbers = [True,False,True,False,True]
 
 even_numbers = list(filter(None,numbers))
 print(even_numbers)
+
+
